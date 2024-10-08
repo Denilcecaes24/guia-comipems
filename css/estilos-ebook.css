@@ -671,7 +671,6 @@ h3{
     height: auto;
     overflow: hidden;
     background-color: ;
-    margin: 0 auto;
     padding: 0;
   }
 
@@ -910,7 +909,7 @@ h3{
     font-size: 3rem;
     color: white;
     background-color: #ffb01e;
-    padding: 1.3rem 1.7rem;
+    padding: 1.3rem 1.3rem;
     margin: 0 auto;
     border-radius: 50%;
 
